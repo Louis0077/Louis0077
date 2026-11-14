@@ -13,4 +13,4 @@ Java · PHP · SQL (MySQL) · JavaScript · HTML and CSS · Git · Docker
 
 **Contact**
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · eliaspap2002.email@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ilias-papadopoulos-859624238) · eliaspap2002.email@gmail.com
