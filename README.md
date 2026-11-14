@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Ilias 👋
 
-<!--
-**Louis0077/Louis0077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior software developer from Greece. I build web apps with PHP and MySQL and desktop apps with Java, and I'm looking for my first developer role.
 
-Here are some ideas to get you started:
+**Projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Liakos Movies](https://github.com/Louis0077/liakosmovies)**: a movie catalogue in PHP and MySQL with admin sign-in, search, poster uploads and secure forms (prepared statements, password hashing, CSRF tokens). Runs locally with one Docker command.
+- **[Hangman](https://github.com/Louis0077/Hangman)**: a two-player Hangman game with a Swing GUI in Java.
+
+**Tech I use**
+
+Java · PHP · SQL (MySQL) · JavaScript · HTML and CSS · Git · Docker
+
+**Contact**
+
+[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · your.email@example.com
